@@ -96,7 +96,7 @@ pip install -r requirements.txt
 3.Start Jupyter Notebook and open:
 jupyter notebook
 
-4. Run the notebook cat_dog_cnn.ipynb to train, evaluate, and test predictions.
+4.Run the notebook cat_dog_cnn.ipynb to train, evaluate, and test predictions.
 
 
 Future Improvements
